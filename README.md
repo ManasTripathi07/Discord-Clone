@@ -1,5 +1,4 @@
-
-﻿# 💳 Discord Frontend Clone
+﻿## 💳 Discord Frontend Clone
 
 A highly accurate Discord homepage clone built using **TailwindCSS** and smooth **animations**, recreating the original site's UI and UX up to **95% fidelity**.
 
